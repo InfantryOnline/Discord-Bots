@@ -1,0 +1,23 @@
+{
+  "name": "IBot",
+  "version": "1.0.0",
+  "description": "",
+
+  "main": "index.js",
+	"scripts": {
+	  "start": "node index.js"
+	},
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "HellSpawn",
+  "license": "",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.2.1",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  },
+  "homepage": ""
+}
