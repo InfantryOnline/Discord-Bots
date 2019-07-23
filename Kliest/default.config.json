@@ -2,7 +2,7 @@
     "token":"INSERT BOT TOKEN HERE",
     "owner": "INSERT OWNER ID HERE",
     "prefix": "!",
-	"directory": "http://infdir1.aaerox.com/directory/",
+	"directory": "http://infdir1.aaerox.com/directory/notz/",
 	"channelID": "563726102753968128",
 	"serverID": "286700121217957888",
 	"alertRole": "Trooper"
